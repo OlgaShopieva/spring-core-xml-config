@@ -11,7 +11,7 @@ The idea is to create a Market.
 ## 1. Preparation steps
 1.Create a new project in IntelliJ IDEA (choose Maven Archetype - > org.apache.maven.archetypes:maven-archetype-webapp)
 
-2.Open your pom.xml file. Create new dependencies with open tag <dependency> and close tag </dependency>. You need to create 3 dependenciesSpring Core, Spring Bean, Spring Context.
+2.Open your pom.xml file. Create new dependencies with open tag <dependency> and close tag </dependency>. You need to create 3 dependencies: Spring Core, Spring Bean, Spring Context.
 
 3.Go to Maven repository https://mvnrepository.com/. Find dependencies. Choose the latest version, copy the Maven dependency code and paste in each dependency your created before in pom.xml
 
